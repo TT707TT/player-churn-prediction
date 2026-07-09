@@ -41,8 +41,7 @@ session-based features are present.
 The 0.306 precision gap between Gradient Boosting and Logistic Regression reflects 
 a fundamental mismatch between a linear decision boundary and a non-linear churn 
 signal. A player with low session frequency but high session duration presents a 
-different risk profile than one low on both — an interaction Logistic Regression 
-cannot capture without explicit feature engineering.
+different risk profile than one low on both.
 
 **Threshold selection is a business decision**  
 F1-maximising threshold analysis on out-of-fold training predictions identified 
