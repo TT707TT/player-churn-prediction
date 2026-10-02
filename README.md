@@ -1,5 +1,5 @@
 # Player Churn Prediction Dashboard
-### MSc Capstone Project (In Progress — August 2026)
+### MSc Capstone Project
 
 ## Overview
 An end-to-end churn-risk prediction pipeline built on player behavioural engagement 
